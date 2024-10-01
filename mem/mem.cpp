@@ -38,4 +38,6 @@ int main()
 
 		std::cout << num2;
 	}
+
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }
