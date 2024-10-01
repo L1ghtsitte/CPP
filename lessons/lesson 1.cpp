@@ -14,4 +14,6 @@ int main()
 	std::cout << "Вы написали число: " << num << std::endl;
 
 	return 0;
+
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }
