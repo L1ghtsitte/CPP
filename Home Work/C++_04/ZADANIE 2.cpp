@@ -11,14 +11,17 @@ int main()
 	double S = 0;
 	double L = 0;
 
-	std::cout << "Âåäèòå Ğàäèóñ = ";
-	std::cin >>	R;
+	std::cout << "Ğ”Ğ»Ğ¸Ğ½Ñƒ Ğ¾ĞºÑ€ÑƒĞ¶Ğ½Ğ¾ÑÑ‚Ğ¸ = ";
+	std::cin >>	L;
 
+	R = L / ( 2 * pi );
 	S = pi * R * R;
-	L = 2 * pi * R;
+	
 
-	std::cout << "Ïëîùàäü êğóãà = " << S << std::endl;
-	std::cout << "Äëèííà îêğóæíîñòè = " << L << std::endl;
+	std::cout << "ĞŸĞ»Ğ¾Ñ‰Ğ°Ğ´ÑŒ ĞºÑ€ÑƒĞ³Ğ° = " << S << std::endl;
+	std::cout << "Ğ Ğ°Ğ´Ğ¸ÑƒÑ Ğ¾ĞºÑ€ÑƒĞ¶Ğ½Ğ¾ÑÑ‚Ğ¸ = " << R << std::endl;
+
+	//Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
 
 
 }
