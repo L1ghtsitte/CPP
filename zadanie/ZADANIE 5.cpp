@@ -20,6 +20,8 @@ int main()
 	std::cin >> f;
 
 	std::cout << e << ", " << d << ", " << f << ", " << c << "\n";
+
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 	
 
 }
