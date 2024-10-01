@@ -18,4 +18,6 @@ int main()
 	cout << " \t\t\t\t35\t\t\t |35|\n";
 
 	return 0;
+
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }
