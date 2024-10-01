@@ -44,4 +44,7 @@ int main()
     std::cout << "Наибольшее число: " << max << std::endl;
     std::cout << "Разница между ними: " << difference << std::endl;
 
+
+    //Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+
 }
