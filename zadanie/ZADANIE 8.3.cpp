@@ -37,4 +37,6 @@ int main()
     std::cout << std::endl;
     std::cout << "Сумма всех чисел: " << sum << std::endl;
 
+    //Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+
 }
