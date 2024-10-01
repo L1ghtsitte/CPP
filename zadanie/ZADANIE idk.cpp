@@ -214,5 +214,7 @@ int main()
 
 	}
 
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+
 
 }
