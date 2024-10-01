@@ -12,4 +12,6 @@ int main()
 	cout << "\t\t\t\t\tDoes Pheasant" << "\n";
 	cout << "\t\t\t\t\t\t\tSit" << "\n\n";
 	return 0;
+
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }
