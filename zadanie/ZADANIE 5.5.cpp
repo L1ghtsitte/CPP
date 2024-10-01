@@ -26,6 +26,8 @@ int main()
 
 	return 0;
 
+	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+
 
 
 }
