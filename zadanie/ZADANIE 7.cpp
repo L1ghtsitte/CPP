@@ -12,15 +12,15 @@ int main()
 	double modsum;
 
 
-	std::cout << "ĞŸĞµĞ²Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
+	std::cout << "Ïåâğîå ÷èñëî = ";
 	std::cin >> num1;
-	std::cout << "Ğ’Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
+	std::cout << "Âòîğîå ÷èñëî = ";
 	std::cin >> num2;
 
 	if (num1 < 0)
 	{
 
-		std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ 1 Ñ‡Ğ¸ÑĞ»Ğ° = ";
+		std::cout << "Ìîäóëü 1 ÷èñëà = ";
 		mod1 = num1 * -1;
 		std::cout << mod1;
 		std::cout << "\n";
@@ -30,7 +30,7 @@ int main()
 	else 
 	{
 
-		std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ 1 Ñ‡Ğ¸ÑĞ»Ğ° = ";
+		std::cout << "Ìîäóëü 1 ÷èñëà = ";
 		mod1 = num1;
 		std::cout << mod1;
 		std::cout << "\n";
@@ -40,7 +40,7 @@ int main()
 	if (num2 < 0)
 	{
 
-		std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ 2 Ñ‡Ğ¸ÑĞ»Ğ° = ";
+		std::cout << "Ìîäóëü 2 ÷èñëà = ";
 		mod2 = num2 * -1;
 		std::cout << mod2;
 		std::cout << "\n";
@@ -50,14 +50,14 @@ int main()
 	else 
 	{
 
-		std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ 2 Ñ‡Ğ¸ÑĞ»Ğ° = ";
+		std::cout << "Ìîäóëü 2 ÷èñëà = ";
 		mod2 = num2;
 		std::cout << mod2;
 		std::cout << "\n";
 
 	}
 
-	std::cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ° Ğ¼Ğ¾Ğ´ĞµĞ»ĞµĞ¹ = " << mod1  +  mod2 << std::endl;
+	std::cout << "Ñóììà ìîäåëåé = " << mod1  +  mod2 << std::endl;
 
 	modsum = num1 + num2;
 
@@ -74,10 +74,8 @@ int main()
 
 	}
 
-	std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ ÑÑƒĞ¼Ğ¼Ñ‹ = " << modsum << std::endl;
+	std::cout << "Ìîäóëü ñóììû = " << modsum << std::endl;
 
 	return 0;
-
-	//Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
 
 }

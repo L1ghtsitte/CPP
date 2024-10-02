@@ -8,26 +8,26 @@ int main()
     int start = 0;
     int end = 0;
 
-    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ½Ğ°Ñ‡Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: ";
+    std::cout << "Ââåäèòå íà÷àëüíîå ÷èñëî: ";
     std::cin >> start;
-    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ĞºĞ¾Ğ½ĞµÑ‡Ğ½Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: ";
+    std::cout << "Ââåäèòå êîíå÷íîå ÷èñëî: ";
     std::cin >> end;
 
     if (start > end) 
     {
-        std::cout << "ĞÑˆĞ¸Ğ±ĞºĞ°: Ğ½Ğ°Ñ‡Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ Ğ±Ğ¾Ğ»ÑŒÑˆĞµ ĞºĞ¾Ğ½ĞµÑ‡Ğ½Ğ¾Ğ³Ğ¾." << std::endl;
+        std::cout << "Îøèáêà: íà÷àëüíîå ÷èñëî áîëüøå êîíå÷íîãî." << std::endl;
 
     }
 
     if (start < end)
     {
-        std::cout << "Ğ§Ğ¸ÑĞ»Ğ¾ Ğ¼ĞµĞ½ÑŒÑˆĞµ Ğ½Ğ°Ñ‡Ğ°Ğ»ÑŒĞ½Ğ¾Ğ³Ğ¾" << std::endl;
+        std::cout << "×èñëî ìåíüøå íà÷àëüíîãî" << std::endl;
 
     }
 
     int sum = 0;
 
-    std::cout << "Ğ’ÑĞµ Ñ†ĞµĞ»Ñ‹Ğµ Ñ‡Ğ¸ÑĞ»Ğ° Ğ¾Ñ‚ " << start << " Ğ´Ğ¾ " << end << " Ğ²ĞºĞ»ÑÑ‡Ğ¸Ñ‚ĞµĞ»ÑŒĞ½Ğ¾:" << std::endl;
+    std::cout << "Âñå öåëûå ÷èñëà îò " << start << " äî " << end << " âêëş÷èòåëüíî:" << std::endl;
 
     for (int i = start; i <= end; ++i) 
     {
@@ -35,8 +35,6 @@ int main()
         sum += i;
     }
     std::cout << std::endl;
-    std::cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ° Ğ²ÑĞµÑ… Ñ‡Ğ¸ÑĞµĞ»: " << sum << std::endl;
-
-    //Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
+    std::cout << "Ñóììà âñåõ ÷èñåë: " << sum << std::endl;
 
 }

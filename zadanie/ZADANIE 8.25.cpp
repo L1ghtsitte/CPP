@@ -12,7 +12,7 @@ int main()
 	double i;
 
 
-	std::cout << "ĞŸĞµÑ€Ğ²Ğ¾Ğµ" << std::endl;
+	std::cout << "Ïåğâîå" << std::endl;
 	for (i = 0; i <= 10; ++i)
 	{
 
@@ -20,7 +20,7 @@ int main()
 
 	}
 
-	std::cout << "Ğ’Ñ‚Ğ¾Ñ€Ğ¾Ğµ" << std::endl;
+	std::cout << "Âòîğîå" << std::endl;
 
 	for (i = -10; i <= 10; ++i)
 	{
@@ -29,7 +29,7 @@ int main()
 
 	}
 
-	std::cout << "Ğ¢Ñ€ĞµÑ‚ÑŒĞµ" << std::endl;
+	std::cout << "Òğåòüå" << std::endl;
 
 	for (i = -25; i <= 15; ++i)
 	{
@@ -38,7 +38,7 @@ int main()
 
 	}
 
-	std::cout << "Ğ§ĞµÑ‚Ğ²ĞµÑ€Ñ‚Ğ¾Ğµ" << std::endl;
+	std::cout << "×åòâåğòîå" << std::endl;
 
 	for (i = 0; i <= 100; i = i + 15)
 	{
@@ -47,7 +47,7 @@ int main()
 
 	}
 
-	std::cout << "ĞŸÑÑ‚Ğ¾Ğµ" << std::endl;
+	std::cout << "Ïÿòîå" << std::endl;
 
 	std::cin >> num1;
 
@@ -58,7 +58,7 @@ int main()
 
 	}
 
-	std::cout << "Ğ¨ĞµÑÑ‚Ğ¾Ğµ" << std::endl;
+	std::cout << "Øåñòîå" << std::endl;
 
 	std::cin >> num2;
 
@@ -69,7 +69,7 @@ int main()
 
 	}
 
-	std::cout << "Ğ¡ĞµĞ´ÑŒĞ¼Ğ¾Ğµ" << std::endl;
+	std::cout << "Ñåäüìîå" << std::endl;
 
 	std::cin >> num3;
 	std::cin >> num4;
@@ -80,6 +80,4 @@ int main()
 		std::cout << i << std::endl;
 
 	}
-
-	//Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }

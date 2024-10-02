@@ -7,15 +7,13 @@ int main()
 	int num1;
 	int num2;
 
-	std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ¿ĞµÑ€Ğ²Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: ";
+	std::cout << "Ââåäèòå ïåğâîå ÷èñëî: ";
 	std::cin >> num1;
-	std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ²Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: ";
+	std::cout << "Ââåäèòå âòîğîå ÷èñëî: ";
 	std::cin >> num2;
 
 
-	std::cout << "Ğ Ğ°Ğ·Ğ½Ğ¸Ñ†Ğ°: " << num1 - num2 << "\n";
-	std::cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ°: " << num1 + num2 << "\n";
-	std::cout << "ĞŸÑ€Ğ¾Ğ¸Ğ·Ğ²ĞµĞ´ĞµĞ½Ğ¸Ğµ: " << num1 * num2 << "\n";
-
-	//Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
+	std::cout << "Ğàçíèöà: " << num1 - num2 << "\n";
+	std::cout << "Ñóììà: " << num1 + num2 << "\n";
+	std::cout << "Ïğîèçâåäåíèå: " << num1 * num2 << "\n";
 }

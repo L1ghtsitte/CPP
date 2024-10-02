@@ -30,6 +30,4 @@ int main()
 	sum = sum + num4;
 	std::cout << "sum - " << sum << std::endl;
 
-	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
-
 }

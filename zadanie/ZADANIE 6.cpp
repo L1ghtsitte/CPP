@@ -12,22 +12,23 @@ int main()
     int max;
     int difference;
 
-    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ñ‡Ğ¸ÑĞµĞ»: ";
+    std::cout << "Ââåäèòå êîëè÷åñòâî ÷èñåë: ";
     std::cin >> n;
 
     if (n <= 0) {
-        std::cout << "ĞĞµĞºĞ¾Ñ€Ñ€ĞµĞºÑ‚Ğ½Ğ¾Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ñ‡Ğ¸ÑĞµĞ»!" << std::endl;
+        std::cout << "Íåêîğğåêòíîå êîëè÷åñòâî ÷èñåë!" << std::endl;
+
+        return 0;
     }
 
-
-    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ 1: ";
+    std::cout << "Ââåäèòå ÷èñëî 1: ";
     std::cin >> number;
 
     min = number;
     max = number;
 
     for (int i = 1; i < n; ++i) {
-        std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ " << i + 1 << ": ";
+        std::cout << "Ââåäèòå ÷èñëî " << i + 1 << ": ";
         std::cin >> number;
 
         if (number < min) {
@@ -40,11 +41,8 @@ int main()
 
     difference = max - min;
 
-    std::cout << "ĞĞ°Ğ¸Ğ¼ĞµĞ½ÑŒÑˆĞµĞµ Ñ‡Ğ¸ÑĞ»Ğ¾: " << min << std::endl;
-    std::cout << "ĞĞ°Ğ¸Ğ±Ğ¾Ğ»ÑŒÑˆĞµĞµ Ñ‡Ğ¸ÑĞ»Ğ¾: " << max << std::endl;
-    std::cout << "Ğ Ğ°Ğ·Ğ½Ğ¸Ñ†Ğ° Ğ¼ĞµĞ¶Ğ´Ñƒ Ğ½Ğ¸Ğ¼Ğ¸: " << difference << std::endl;
-
-
-    //Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
+    std::cout << "Íàèìåíüøåå ÷èñëî: " << min << std::endl;
+    std::cout << "Íàèáîëüøåå ÷èñëî: " << max << std::endl;
+    std::cout << "Ğàçíèöà ìåæäó íèìè: " << difference << std::endl;
 
 }

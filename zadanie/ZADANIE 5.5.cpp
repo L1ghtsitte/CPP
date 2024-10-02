@@ -10,23 +10,21 @@ int main()
 	float g;
 	//double k;
 
-	std::cout << "ĞŸĞµĞ²Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
+	std::cout << "Ïåâğîå ÷èñëî = ";
 	std::cin >> x;
-	std::cout << "Ğ’Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
+	std::cout << "Âòîğîå ÷èñëî = ";
 	std::cin >> t;
-	std::cout << "ĞŸĞµĞ²Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
+	std::cout << "Ïåâğîå ÷èñëî = ";
 	std::cin >> g;
 
 
 	float k = (x/2 + 3*t - 2*g) - t*t ;
 
-	std::cout << "Ğ ĞµĞ·ÑƒĞ»ÑŒÑ‚Ğ°Ñ‚ = " << k;
+	std::cout << "Ğåçóëüòàò = " << k;
 
 
 
 	return 0;
-
-	//Ğ’Ñ‹Ğ¿Ğ¾Ğ»Ğ½Ğ¸Ğ» L1ghtsitte//https://github.com/L1ghtsitte/CPP
 
 
 

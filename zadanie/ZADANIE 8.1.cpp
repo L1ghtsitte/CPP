@@ -15,6 +15,4 @@ int main()
 		std::cout << i  << ".Hello underworld!" << std::endl;
 
 	}
-
-	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
 }
