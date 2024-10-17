@@ -28,25 +28,28 @@ int main()
 	double modsum;
 
 
-	std::cout << "Ïåğâîå ÷èñëî = " ;
+	std::cout << "ĞŸĞµÑ€Ğ²Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = " ;
 	std::cin >> num1;
 
 
-	std::cout << "Âòîğîå ÷èñëî = " ;
+	std::cout << "Ğ’Ñ‚Ğ¾Ñ€Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = " ;
 	std::cin >> num2;
 
-	std::cout << "Ìîäóëü ïåğâîãî ÷èñëà = " << modul(num1) << std::endl;
-	std::cout << "Ìîäóëü âòîğîãî ÷èñëà = " << modul(num2) << std::endl;
+	std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ Ğ¿ĞµÑ€Ğ²Ğ¾Ğ³Ğ¾ Ñ‡Ğ¸ÑĞ»Ğ° = " << modul(num1) << std::endl;
+	std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ Ğ²Ñ‚Ğ¾Ñ€Ğ¾Ğ³Ğ¾ Ñ‡Ğ¸ÑĞ»Ğ° = " << modul(num2) << std::endl;
 
 	mod1 = modul(num1);
 
 	mod2 = modul(num2);
 
-	std::cout << "Cóììà ìîäåëåé = " << mod1 + mod2 << std::endl;
+	std::cout << "CÑƒĞ¼Ğ¼Ğ° Ğ¼Ğ¾Ğ´ĞµĞ»ĞµĞ¹ = " << mod1 + mod2 << std::endl;
 
 	modsum = num1 + num2;
 
-	std::cout << "Ìîäóëü cóììû = " << modul(modsum) << std::endl;
+	std::cout << "ĞœĞ¾Ğ´ÑƒĞ»ÑŒ cÑƒĞ¼Ğ¼Ñ‹ = " << modul(modsum) << std::endl;
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 
 }
