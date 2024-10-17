@@ -26,9 +26,12 @@ int main()
 
 	int num1;
 
-	cout << "Ââåäèòå ÷èñëî = ";
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
 	cin >> num1;
 
-	cout << "Ñóììà ÷èñåë = " << sum(num1);
+	cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ° Ñ‡Ğ¸ÑĞµĞ» = " << sum(num1);
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
