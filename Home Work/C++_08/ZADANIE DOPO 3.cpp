@@ -6,13 +6,13 @@ double sixxxten(double num)
     if ((num >= 100000 && num <= 999999) || (num <= -100000 && num >= -999999)) 
     {
 
-        std::cout << "×èñëî ÿâëÿåòñÿ øåñòèçíà÷íûì." << std::endl;
+        std::cout << "Ã—Ã¨Ã±Ã«Ã® Ã¿Ã¢Ã«Ã¿Ã¥Ã²Ã±Ã¿ Ã¸Ã¥Ã±Ã²Ã¨Ã§Ã­Ã Ã·Ã­Ã»Ã¬." << std::endl;
 
     }
     else 
     {
 
-        std::cout << "×èñëî íå ÿâëÿåòñÿ øåñòèçíà÷íûì." << std::endl;
+        std::cout << "Ã—Ã¨Ã±Ã«Ã® Ã­Ã¥ Ã¿Ã¢Ã«Ã¿Ã¥Ã²Ã±Ã¿ Ã¸Ã¥Ã±Ã²Ã¨Ã§Ã­Ã Ã·Ã­Ã»Ã¬." << std::endl;
 
     }
     return num;
@@ -25,9 +25,12 @@ int main()
 
     double num;
 
-    std::cout << "Ââåäèòå ÷èñëî = ";
+    std::cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã·Ã¨Ã±Ã«Ã® = ";
     std::cin >> num;
 
     sixxxten(num);
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
