@@ -32,15 +32,18 @@ int main()
 
 	int num1, step;
 
-	cout << "Ââåäèòå ÷èñëî = ";
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = ";
 	cin >> num1;
 
 
-	cout << "Ââåäèòå ñòåïåíü = ";
+	cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ÑÑ‚ĞµĞ¿ĞµĞ½ÑŒ = ";
 	cin >> step;
 
 	stepen(step, num1);
 
-	cout << "Âàøå ÷èñëî â ñòåïåíè = " << proizv;
+	cout << "Ğ’Ğ°ÑˆĞµ Ñ‡Ğ¸ÑĞ»Ğ¾ Ğ² ÑÑ‚ĞµĞ¿ĞµĞ½Ğ¸ = " << proizv;
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
