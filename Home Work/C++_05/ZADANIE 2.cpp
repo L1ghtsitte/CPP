@@ -13,14 +13,14 @@ int main()
 	do
 	{
 
-		std::cout << "Cêîëüêî ó âàñ äåíåã = ";
+		std::cout << "CÐºÐ¾Ð»ÑŒÐºÐ¾ Ñƒ Ð²Ð°Ñ Ð´ÐµÐ½ÐµÐ³ = ";
 		std::cin >> money;
 
 		dolor = money;
 
 		cent = (money - dolor) * 100;
 
-		std::cout << dolor << " äîëëàðîâ è " << cent << " öåíòîâ. ";
+		std::cout << dolor << " Ð´Ð¾Ð»Ð»Ð°Ñ€Ð¾Ð² Ð¸ " << cent << " Ñ†ÐµÐ½Ñ‚Ð¾Ð². ";
 
 		system("pause");
 		system("cls");
@@ -28,5 +28,7 @@ int main()
 		}
 
 	while ("true");
-
+	
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 }
