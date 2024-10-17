@@ -8,5 +8,6 @@ int main()
 		 <<  "We're all living in Amerika \n Amerika ist wunderbar \n We're all living in Amerika\n Amerika, Amerika \n\n Rammstein - Amerika ";
 	return 0;
 
-	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 }
