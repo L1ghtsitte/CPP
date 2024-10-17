@@ -11,19 +11,19 @@ int main()
 	do
 	{
 
-		std::cout << " Ââåäèòå äëèíó äècòàíöèè (â ìåòğàõ) = ";
+		std::cout << " Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ´Ğ»Ğ¸Ğ½Ñƒ Ğ´Ğ¸cÑ‚Ğ°Ğ½Ñ†Ğ¸Ğ¸ (Ğ² Ğ¼ĞµÑ‚Ñ€Ğ°Ñ…) = ";
 		std::cin >> dist;
 
 		if (dist >= 0)
 		{
 
-			std::cout << " Ââåäèòå âğåìÿ (ìèí.cåê) = ";
+			std::cout << " Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ²Ñ€ĞµĞ¼Ñ (Ğ¼Ğ¸Ğ½.cĞµĞº) = ";
 			std::cin >> time1;
 
 			if (time1 >= 0)
 			{
 
-				std::cout << " Äècòàíöèÿ = " << dist << std::endl;
+				std::cout << " Ğ”Ğ¸cÑ‚Ğ°Ğ½Ñ†Ğ¸Ñ = " << dist << std::endl;
 
 				time2 = time1;
 
@@ -35,12 +35,12 @@ int main()
 
 				speed = dist / T;
 
-				std::cout << " Âåğìÿ = " << time2 << " ìèíóò " << sec << " cåê = " << T << " cåê. " << std::endl;
-				std::cout << " Cêîğîcòü = " << speed << "ì/ñ" << std::endl;
+				std::cout << " Ğ’ĞµÑ€Ğ¼Ñ = " << time2 << " Ğ¼Ğ¸Ğ½ÑƒÑ‚ " << sec << " cĞµĞº = " << T << " cĞµĞº. " << std::endl;
+				std::cout << " CĞºĞ¾Ñ€Ğ¾cÑ‚ÑŒ = " << speed << "Ğ¼/Ñ" << std::endl;
 
 				speed = speed * 3.6;
 
-				std::cout << " Cêîğîcòü = " << speed << "êì/÷" << std::endl;
+				std::cout << " CĞºĞ¾Ñ€Ğ¾cÑ‚ÑŒ = " << speed << "ĞºĞ¼/Ñ‡" << std::endl;
 
 				system("pause");
 				system("cls");
@@ -50,7 +50,7 @@ int main()
 			if (time1 < 0)
 			{
 
-				std::cout << " İòî òèïî âçÿòü ó ñêîğîñòè êğåäèò íà âğåìÿ?" << std::endl;
+				std::cout << " Ğ­Ñ‚Ğ¾ Ñ‚Ğ¸Ğ¿Ğ¾ Ğ²Ğ·ÑÑ‚ÑŒ Ñƒ ÑĞºĞ¾Ñ€Ğ¾ÑÑ‚Ğ¸ ĞºÑ€ĞµĞ´Ğ¸Ñ‚ Ğ½Ğ° Ğ²Ñ€ĞµĞ¼Ñ?" << std::endl;
 
 				system("pause");
 				system("cls");
@@ -62,7 +62,7 @@ int main()
 		if (dist < 0)
 		{
 
-			std::cout << " Äóìàş òğóäíî áóäåò ïğåäñòàâèòü ïåğåìåùåíèå âî âğåìåíè òîëüêå åñëè íå....... " << std::endl;
+			std::cout << " Ğ”ÑƒĞ¼Ğ°Ñ Ñ‚Ñ€ÑƒĞ´Ğ½Ğ¾ Ğ±ÑƒĞ´ĞµÑ‚ Ğ¿Ñ€ĞµĞ´ÑÑ‚Ğ°Ğ²Ğ¸Ñ‚ÑŒ Ğ¿ĞµÑ€ĞµĞ¼ĞµÑ‰ĞµĞ½Ğ¸Ğµ Ğ²Ğ¾ Ğ²Ñ€ĞµĞ¼ĞµĞ½Ğ¸ Ñ‚Ğ¾Ğ»ÑŒĞºĞµ ĞµÑĞ»Ğ¸ Ğ½Ğµ....... " << std::endl;
 
 			system("pause");
 			system("cls");
@@ -72,5 +72,8 @@ int main()
 	}
 
 	while ("true");
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
