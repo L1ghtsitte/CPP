@@ -11,7 +11,7 @@ int main()
 	int max = arr[0];
 
 	std::cout << std::endl;
-	std::cout << "Ââåäèòå 5 ÷èñåë - ";
+	std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ 5 Ñ‡Ğ¸ÑĞµĞ» - ";
 	std::cout << std::endl;
 
 	for (int i = 0; i < size; i++)
@@ -27,18 +27,21 @@ int main()
 		num += arr[i];
 	}
 	std::cout << std::endl;
-	std::cout << "Ñóììà = " << num;
+	std::cout << "Ğ¡ÑƒĞ¼Ğ¼Ğ° = " << num;
 	std::cout << std::endl;
-	std::cout << "Ñğåäíå àğèôìèòè÷åñêîå = " << num / size;
+	std::cout << "Ğ¡Ñ€ĞµĞ´Ğ½Ğµ Ğ°Ñ€Ğ¸Ñ„Ğ¼Ğ¸Ñ‚Ğ¸Ñ‡ĞµÑĞºĞ¾Ğµ = " << num / size;
 	for (int i = 0; i < size; i++)
 	{
 		if (max > arr[i])max = arr[i];
 		if (min < arr[i])min = arr[i];
 	}
 	std::cout << std::endl;
-	std::cout << "Ìèíèìàëüíîå ÷èñëî = " << max;
+	std::cout << "ĞœĞ¸Ğ½Ğ¸Ğ¼Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = " << max;
 	std::cout << std::endl;
-	std::cout << "Ìàêñèìàëüíîå ÷èñëî = " << min;
+	std::cout << "ĞœĞ°ĞºÑĞ¸Ğ¼Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾ = " << min;
 	std::cout << std::endl;
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
