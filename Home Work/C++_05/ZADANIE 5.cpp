@@ -10,13 +10,13 @@ int main()
 	do
 	{
 
-		std::cout << " Âêëàä = ";
+		std::cout << " Ð’ÐºÐ»Ð°Ð´ = ";
 		std::cin >> money;
 
-		std::cout << " Ïðîöåíò = ";
+		std::cout << " ÐŸÑ€Ð¾Ñ†ÐµÐ½Ñ‚ = ";
 		std::cin >> procent;
 
-		std::cout << " Êîëè÷åñòâî ìåñåöåâ = ";
+		std::cout << " ÐšÐ¾Ð»Ð¸Ñ‡ÐµÑÑ‚Ð²Ð¾ Ð¼ÐµÑÐµÑ†ÐµÐ² = ";
 		std::cin >> mounth;
 
 		procent_mon = procent / 12;
@@ -27,9 +27,9 @@ int main()
 
 		sum = money + (free * mounth);
 
-		std::cout << " Âàøà ñóììà íà âêëàäå = " << sum << std::endl;
-		std::cout << " Êàæäûé ìåñåö âûïëà÷èâîëîñü ïî " << free << " åâïð " << std::endl;
-		std::cout << " Çà " << mounth << " ìåñåöåâ íàêàïàëî " << free2 << " åâðî " << std::endl;
+		std::cout << " Ð’Ð°ÑˆÐ° ÑÑƒÐ¼Ð¼Ð° Ð½Ð° Ð²ÐºÐ»Ð°Ð´Ðµ = " << sum << std::endl;
+		std::cout << " ÐšÐ°Ð¶Ð´Ñ‹Ð¹ Ð¼ÐµÑÐµÑ† Ð²Ñ‹Ð¿Ð»Ð°Ñ‡Ð¸Ð²Ð¾Ð»Ð¾ÑÑŒ Ð¿Ð¾ " << free << " ÐµÐ²Ð¿Ñ€ " << std::endl;
+		std::cout << " Ð—Ð° " << mounth << " Ð¼ÐµÑÐµÑ†ÐµÐ² Ð½Ð°ÐºÐ°Ð¿Ð°Ð»Ð¾ " << free2 << " ÐµÐ²Ñ€Ð¾ " << std::endl;
 
 		system("pause");
 		system("cls");
@@ -37,5 +37,7 @@ int main()
 	}
 
 	while ("true");
-
+	
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 }
