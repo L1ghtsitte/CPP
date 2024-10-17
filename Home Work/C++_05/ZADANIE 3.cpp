@@ -10,7 +10,7 @@ int main()
 	do
 	{
 
-		std::cout << "Ââåäèòå êîëè÷åñòâî äíåé = ";
+		std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ğ´Ğ½ĞµĞ¹ = ";
 		std::cin >> day;
 
 		std::cout << std::endl;
@@ -19,12 +19,12 @@ int main()
 
 		day = day % 7;
 
-		std::cout << "Ââåäåíîå êîëè÷åñòâî íåäåëü = " << week << std::endl;
-		std::cout << "Ââåäåíîå êîëè÷åñòâî äíåé = " << day << std::endl;
+		std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ¾Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ğ½ĞµĞ´ĞµĞ»ÑŒ = " << week << std::endl;
+		std::cout << "Ğ’Ğ²ĞµĞ´ĞµĞ½Ğ¾Ğµ ĞºĞ¾Ğ»Ğ¸Ñ‡ĞµÑÑ‚Ğ²Ğ¾ Ğ´Ğ½ĞµĞ¹ = " << day << std::endl;
 
 		std::cout << std::endl;
 
-		std::cout << "Ïåğåçàïóñòèòü ïğàãğàììó." << std::endl;
+		std::cout << "ĞŸĞµÑ€ĞµĞ·Ğ°Ğ¿ÑƒÑÑ‚Ğ¸Ñ‚ÑŒ Ğ¿Ñ€Ğ°Ğ³Ñ€Ğ°Ğ¼Ğ¼Ñƒ." << std::endl;
 
 		system("pause");
 		system("cls");
@@ -32,5 +32,8 @@ int main()
 	}
 
 	while ("true");
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
