@@ -1,7 +1,7 @@
-	/*#include <iostream>*/ // 1 \\
+#include <iostream>
 
-/*								
-int main()	///2
+							
+int main()
 {								
 	int num;					
 								
@@ -9,9 +9,11 @@ int main()	///2
 								
 	num = -num;					
 								
-	std::cout << num; // 3 \\	
+	std::cout << num; 	
 								
-	return 0; // 4 \\			
+	return 0; 			
 								
-}	2\\\							
-*/ 
+}								
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
