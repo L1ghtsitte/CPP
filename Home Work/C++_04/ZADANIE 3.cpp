@@ -21,7 +21,6 @@ int main()
 
 	std::cout << "Ïðîéäåíûé ïóòü = " << S;
 
-	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
-
-
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 }
