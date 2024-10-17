@@ -17,6 +17,7 @@ int main()
 	std::cout << "Сумма: " << a + b << "\n";
 	std::cout << "Произведение: " << a * b << "\n";
 
-	//Выполнил L1ghtsitte//https://github.com/L1ghtsitte/CPP
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
 
 }
