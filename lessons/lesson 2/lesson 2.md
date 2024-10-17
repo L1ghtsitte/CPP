@@ -27,7 +27,7 @@ A2
 
 ![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.3.png)
 
-Как можете видеть он вывел, но при операциях по типу * могут возникать трудности в виде прервражения из цифр в символы из таблицы ASCII (American Standard Code for Information Interchange);
+Как можете видеть он вывел, но при операциях по типу * могут возникать трудности в виде прервращения из цифр в символы из таблицы ASCII (American Standard Code for Information Interchange);
 
 Все таки туда лучше присваивать символ например 'F';
 
