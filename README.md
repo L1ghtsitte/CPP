@@ -19,3 +19,5 @@ lol idk
 /[(lesson 3 (Циклы))](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%203/cycles.md)\\
 
 /[(lesson 4 (switch case)](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%204/switch_case.md)\\
+
+//[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\
