@@ -9,7 +9,7 @@ lol idk
 | /[(lesson 2 (Переменые))](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/varriables.md)\\ | /[home_work_3](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_03)\\ | - |
 | /[(lesson 3 (Циклы))](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%203/cycles.md)\\ | /[home_work_4)](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_04)\\ | - |
 | /[(lesson 4 (switch case)](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%204/switch_case.md)\\ | /[home_work_5](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_05)\\ | - |
-| //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | /[(home_work_6](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_06)\\ | - |
+| - | /[(home_work_6](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_06)\\ | - |
 | - | /[(home_work_7](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_07)\\ | - |
 | - | /[home_work_8](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_08)\\ | - |
 | - | /[home_work_9)](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_09)\\ | - |
