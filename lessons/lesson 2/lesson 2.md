@@ -77,7 +77,7 @@ A5, A6
 
 Поддерживает математические опперации;
 
-//[Математические операции в C++](https://github.com/L1ghtsitte/CPP/blob/main/info/math_operation.png)\\\
+//[Математические операции в C++](https://github.com/L1ghtsitte/CPP/blob/main/info/math/math_operation.png)\\\
 
 Впринцепи на этом можно закончить
 
