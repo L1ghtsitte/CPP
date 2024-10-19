@@ -5,45 +5,43 @@ int main()
 
 	system("chcp 1251");
 
-	int num1, num2, action;
+	int num1, num2, sum, action;
 
-	std::cout << "Ââåäèòå ïåðâîå ÷èñëî = ";
-
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿ÐµÑ€Ð²Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ = ";
 	std::cin >> num1;
-
-	std::cout << "Ââåäèòå âòîðîå ÷èñëî = ";
-
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ = ";
 	std::cin >> num2;
-
-	std::cout << "Ââåäèòå äåéñòâèå = ";
+	std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ðµ = ";
 	std::cin >> action;
 
 	switch (action)
 	{
-
 	case 0:
 	{
-
-	std::cout << "Ñëîæåíèå: " << num1 + num2;
-
-	break;
-
+		std::cout << "Ð¡Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ: " << num1 + num2;
+		break;
 	}
 	case 1:
 	{
-
-		std::cout << "Óìíîæåíèå: " << num1 * num2;
-
+		std::cout << "Ð£Ð¼Ð½Ð¾Ð¶ÐµÐ½Ð¸Ðµ: " << num1 * num2;
 		break;
-
 	}
 	default:
 	{
-
-		std::cout << "Îøèáêà " << num1 * num2;
-
+		std::cout << "ÐžÑˆÐ¸Ð±ÐºÐ° ";
+	}
 	}
 
+	if (action == 2)
+	{
+		std::cout << "Ð¡Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ(if): " << num1 + num2;
 	}
-
+	
+	if (action == 3)
+	{
+		std::cout << "Ð£Ð¼Ð½Ð¾Ð¶ÐµÐ½Ð¸Ðµ (if): " << num1 * num2;
+	}
 }
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
