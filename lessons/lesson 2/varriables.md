@@ -3,11 +3,11 @@
 
 Переменная - область памяти для хранения данных;
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.1.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/var_1.png)
 
 А теперь по порядку;
 
-![Тут таблица](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.2.png)
+![Тут таблица](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/var_2.png)
 
 var1, var2, var3, var4, var5 - имя переменой;
 
@@ -25,13 +25,13 @@ A2
 
 Туда можно поместить как число например '4' (не советую для этого есть int или float, double):
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.3.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/char_1.png)
 
 Как можете видеть он вывел, но при операциях по типу * могут возникать трудности в виде прервращения из цифр в символы из таблицы ASCII (American Standard Code for Information Interchange);
 
 Все таки туда лучше присваивать символ например 'F';
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.4.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/char_2.png)
 
 Тут тоже все прекрасно выводится на экран;
 
@@ -45,7 +45,7 @@ true = 1/false = 0;
 
 Давайте попроробуем создать 4 перемменые типа bool и попробуем вывести true, false, 1, 0;
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.5.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/bool_1.png)
 
 Числа которые не равняются 0 (num != 0) тоже будут считатся true/1;
 
@@ -55,11 +55,11 @@ A4
 
 Поддерживает все виды математических операций их список доступен по ссылке ниже;
 
-//[Математические операции в C++](https://github.com/L1ghtsitte/CPP/blob/main/info/math_operation.png)\\\
+//[Математические операции в C++](https://github.com/L1ghtsitte/CPP/blob/main/info/math/math_operation.png)\\\
 
 Принимает число без плавающей точки;
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.6.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/int_1.png)
 
 Как выможете видете при выводе переменной num2(которая равна 4.3) вывелось просто 4;
 
@@ -71,7 +71,7 @@ A5, A6
 
 Их исполььзуют для значений с палвающей точкой(АКА не целых чисел);
 
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/lesson-2.7.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/float_double_1.png)
 
 К слову там могут быть и целочисленые числа как в int;
 
