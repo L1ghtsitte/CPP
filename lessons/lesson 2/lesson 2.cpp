@@ -4,11 +4,11 @@
 int main()
 {
 
-	char var1 = 'A';   // 1 выделяет в битах
-	bool var2 = false;  // 1 выделяет в битах
-	int var3 = 8;	   // 4 выделяет в битах
-	float var4 = 12.3; // 4 выделяет в битах
-	double var5 = 5.3; // 8 выделяет в битах
+	char var1 = 'A';   // 1 ГўГ»Г¤ГҐГ«ГїГҐГІ Гў ГЎГЁГІГ Гµ
+	bool var2 = false;  // 1 ГўГ»Г¤ГҐГ«ГїГҐГІ Гў ГЎГЁГІГ Гµ
+	int var3 = 8;	   // 4 ГўГ»Г¤ГҐГ«ГїГҐГІ Гў ГЎГЁГІГ Гµ
+	float var4 = 12.3; // 4 ГўГ»Г¤ГҐГ«ГїГҐГІ Гў ГЎГЁГІГ Гµ
+	double var5 = 5.3; // 8 ГўГ»Г¤ГҐГ«ГїГҐГІ Гў ГЎГЁГІГ Гµ
 
 	std::cout << "ex" << std::endl;
 
@@ -55,3 +55,6 @@ int main()
 	std::cout << num9 << std::endl;
 
 }
+
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
