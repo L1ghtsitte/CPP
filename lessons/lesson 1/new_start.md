@@ -1,4 +1,4 @@
-![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%201/lesson-1.png)
+![Тут код](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%201/first_code.png)
 
 
 Указаные числа в /// 0 \\\ и так далее являются номераит пунктов;
