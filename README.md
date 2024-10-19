@@ -2,8 +2,8 @@
 # Я красаучик
 lol idk
 
-|   Конспекты   |      Дезешки       | Задания |
-|:-------------:|:------------------:|:-------:|
+|   конспекты   |      дезешки       | задания || картинки|
+|:-------------:|:------------------:|:-------:||:-------:|
 | /[(lesson 0 (Немного информации)](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%200/lesson%200.md)\\ | /[(home_work_1](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_01)\\ | /[(ZADANIE_4)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%204.cpp)\\ |
 | /[(lesson 1 (Ведение))](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%201/new_start.md)\\ | /[(home_work_2](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_02)\\ | /[(ZADANIE_5.5)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%205.5.cpp)\\ |
 | /[(lesson 2 (Переменые))](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/varriables.md)\\ | /[home_work_3](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_03)\\ | /[(ZADANIE_5)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%205.cpp)\\ |
@@ -19,4 +19,5 @@ lol idk
 | - | - | - |
 | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ |
 
+| - | - | - || [lol](https://github.com/L1ghtsitte/CPP/blob/main/png/1.jpg) |
 
