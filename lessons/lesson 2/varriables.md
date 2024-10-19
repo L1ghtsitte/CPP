@@ -7,7 +7,7 @@
 
 А теперь по порядку;
 
-![Тут таблица](https://github.com/L1ghtsitte/CPP/blob/main/lessons/lesson%202/var_2.png)
+![Тут таблица](https://github.com/L1ghtsitte/CPP/blob/main/info/var/var_1.png)
 
 var1, var2, var3, var4, var5 - имя переменой;
 
