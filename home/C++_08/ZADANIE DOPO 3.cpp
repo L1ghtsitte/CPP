@@ -2,35 +2,25 @@
 
 double sixxxten(double num) 
 {
-  
-    if ((num >= 100000 && num <= 999999) || (num <= -100000 && num >= -999999)) 
+    if ((num >= 100000 && num <= 999999) || (num <= -100000 && num >= -999999))
     {
-
-        std::cout << "×èñëî ÿâëÿåòñÿ øåñòèçíà÷íûì." << std::endl;
-
+        std::cout << "The entered number is six-digit." << std::endl;
     }
-    else 
+    else
     {
-
-        std::cout << "×èñëî íå ÿâëÿåòñÿ øåñòèçíà÷íûì." << std::endl;
-
+        std::cout << "The number entered is not six digits." << std::endl;
     }
     return num;
 }
 
 int main() 
 {
-
-    system("chcp 1251");
-
     double num;
 
-    std::cout << "Ââåäèòå ÷èñëî = ";
+    std::cout << "Your number = ";
     std::cin >> num;
-
     sixxxten(num);
-
+}
 //whrite by L1ghtsitte\\
 //{https://github.com/L1ghtsitte/CPP}\\
 
-}

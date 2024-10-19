@@ -10,13 +10,13 @@ int main()
 	float f;
 
 
-	std::cout << "Введите первое число: \n";
+	std::cout << "Enter first number: \n";
 	std::cin >> c;
-	std::cout << "Введите второе число: \n";
+	std::cout << "Enter second number: \n";
 	std::cin >> d;
-	std::cout << "Введите третие число: \n";
+	std::cout << "Enter third number: \n";
 	std::cin >> e;
-	std::cout << "Введите четвертое число: \n";
+	std::cout << "Enter the fourth number: \n";
 	std::cin >> f;
 
 	std::cout << e << ", " << d << ", " << f << ", " << c << "\n";

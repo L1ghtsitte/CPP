@@ -2,78 +2,47 @@
 
 int main()
 {
-
-	system("chcp 1251");
-
 	int sec, time2;
 	double time1, dist, speed, T;
 
 	do
 	{
-
-		std::cout << " Введите длину диcтанции (в метрах) = ";
+		std::cout << " Enter distance length (in meters) = ";
 		std::cin >> dist;
-
 		if (dist >= 0)
 		{
-
-			std::cout << " Введите время (мин.cек) = ";
+			std::cout << " Enter time (min.sec) = ";
 			std::cin >> time1;
-
 			if (time1 >= 0)
 			{
-
-				std::cout << " Диcтанция = " << dist << std::endl;
-
+				std::cout << " Distance = " << dist << std::endl;
 				time2 = time1;
-
 				sec = time1;
-
 				sec = (time1 - time2) * 100;
-
 				T = (time2 * 60) + sec;
-
 				speed = dist / T;
-
-				std::cout << " Вермя = " << time2 << " минут " << sec << " cек = " << T << " cек. " << std::endl;
-				std::cout << " Cкороcть = " << speed << "м/с" << std::endl;
-
+				std::cout << " Time = " << time2 << " minutes " << sec << " sec = " << T << " sec. " << std::endl;
+				std::cout << " Speed ​​= " << speed << "m/s" << std::endl;
 				speed = speed * 3.6;
-
-				std::cout << " Cкороcть = " << speed << "км/ч" << std::endl;
-
+				std::cout << " Speed ​​= " << speed << "km/h" << std::endl;
 				system("pause");
 				system("cls");
-
 			}
-
 			if (time1 < 0)
 			{
-
-				std::cout << " Это типо взять у скорости кредит на время?" << std::endl;
-
+				std::cout << " Is this supposed to take a loan from speed for a while?" << std::endl;
 				system("pause");
 				system("cls");
-
 			}
-
 		}
-
 		if (dist < 0)
 		{
-
-			std::cout << " Думаю трудно будет представить перемещение во времени тольке если не....... " << std::endl;
-
+			std::cout << "I think it will be difficult to imagine time travel unless....... " << std::endl;
 			system("pause");
 			system("cls");
-
 		}
-
 	}
-
 	while ("true");
-
+}
 //whrite by L1ghtsitte\\
 //{https://github.com/L1ghtsitte/CPP}\\
-
-}

@@ -4,45 +4,27 @@ using namespace std;
 
 int main()
 {
-
-	system("chcp 1251");
-
 	int startS, startM, startH, endS, endM, endH, price;
 	double razeS, razeM, razeH, pay;
-
 	price = 2;
-
-	cout << " Введите время начала(часов) - ";
+	cout << " Enter the start time (hours) - ";
 	cin >> startH;
-
-	cout << " Введите время начала(минут) - ";
+	cout << " Enter start time (minutes) - ";
 	cin >> startM;
-
-	cout << " Введите время начала(секунд) - ";
+	cout << " Enter start time (seconds) - ";
 	cin >> startS;
-
-	cout << " Введите время конца(часов) - ";
+	cout << " Enter the end time (hours) - ";
 	cin >> endH;
-
-	cout << " Введите время конца(минут) - ";
+	cout << " Enter end time (minutes) - ";
 	cin >> endM;
-
-	cout << " Введите время конца(секунд) - ";
+	cout << " Enter end time (seconds) - ";
 	cin >> endS;
-
 	razeS = endS - startS;
-
 	razeM = endM - startM;
-
 	razeH = endH - startH;
-
 	pay = ((razeH * 60) + razeM + (razeS / 60)) * 2;
-
-	cout << " За " << razeH << " часов " << razeM << " минут " << razeS << " секунд\n";
-
-	cout << " Вы должны " << pay << " гривен ";
-
+	cout << " For " << razeH << " hours " << razeM << " minutes " << razeS << " seconds\n";
+	cout << " You must " << pay << " hryvnia ";
+}
 //whrite by L1ghtsitte\\
 //{https://github.com/L1ghtsitte/CPP}\\
-
-}

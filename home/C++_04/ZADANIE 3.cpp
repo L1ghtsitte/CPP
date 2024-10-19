@@ -2,25 +2,21 @@
 
 int main() 
 {
-
-	system("chcp 1251");
-
 	double v = 0 ;	
 	double a = 0 ;
 	double t = 0 ;
 	double S = 0 ;
 
-	std::cout << "Ââåäèòå çíà÷åíèå ñêîðîñòè = ";
+	std::cout << "Enter speed value = ";
 	std::cin >> v;	
-	std::cout << "Ââåäèòå çíà÷åíèå óñêîðåíèÿ = ";
+	std::cout << "Enter acceleration value = ";
 	std::cin >> a;	
-	std::cout << "Ââåäèòå âðåìÿ = ";
+	std::cout << "Enter time = ";
 	std::cin >> t;
 
 	S = v * t + (a * t * t) / 2;
 
-	std::cout << "Ïðîéäåíûé ïóòü = " << S;
-
+	std::cout << "Distance traveled = " << S;
+}
 //whrite by L1ghtsitte\\
 //{https://github.com/L1ghtsitte/CPP}\\
-}

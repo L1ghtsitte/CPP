@@ -2,22 +2,16 @@
 
 int main()
 {
-	system("chcp 1251");
-
 	int a;
 	int b;
 
-	std::cout << "Введите первое число: ";
+	std::cout << "Enter first number: ";
 	std::cin >> a;
-	std::cout << "Введите второе число: ";
+	std::cout << "Enter second number: ";
 	std::cin >> b;
-
-
-	std::cout << "Разница: " << a - b << "\n";
-	std::cout << "Сумма: " << a + b << "\n";
-	std::cout << "Произведение: " << a * b << "\n";
-
+	std::cout << "difference: " << a - b << "\n";
+	std::cout << "sum: " << a + b << "\n";
+	std::cout << "product of numbers : " << a * b << "\n";
+}
 //whrite by L1ghtsitte\\
 //{https://github.com/L1ghtsitte/CPP}\\
-
-}
