@@ -2,25 +2,20 @@
 
 int main()
 {
-	system("chcp 1251");
-
 	float c;
 	float d;
 	float e;
 	float f;
 
-
-	std::cout << "¬ведите первое число: \n";
+	std::cout << "Enter the first number: \n";
 	std::cin >> c;
-	std::cout << "¬ведите второе число: \n";
+	std::cout << "Enter the second number: \n";
 	std::cin >> d;
-	std::cout << "¬ведите третие число: \n";
+	std::cout << "Enter the third number: \n";
 	std::cin >> e;
-	std::cout << "¬ведите четвертое число: \n";
+	std::cout << "Enter the fourth number: \n";
 	std::cin >> f;
-
 	std::cout << e << ", " << d << ", " << f << ", " << c << "\n";
-	
-
 }
-
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\

@@ -2,39 +2,33 @@
 
 int main() 
 {
-
-    system("chcp 1251");
-
     int start = 0;
     int end = 0;
 
-    std::cout << "Введите начальное число: ";
+    std::cout << "Enter starting number: ";
     std::cin >> start;
-    std::cout << "Введите конечное число: ";
+    std::cout << "Enter ending number: ";
     std::cin >> end;
-
-    if (start > end) 
+    if (start > end)
     {
-        std::cout << "Ошибка: начальное число больше конечного." << std::endl;
+        std::cout << "Error: starting number is greater than ending number." << std::endl;
 
     }
-
     if (start < end)
     {
-        std::cout << "Число меньше начального" << std::endl;
+        std::cout << "Number is less than starting number" << std::endl;
 
     }
-
     int sum = 0;
 
-    std::cout << "Все целые числа от " << start << " до " << end << " включительно:" << std::endl;
-
+    std::cout << "All integers from " << start << " to " << end << " inclusive:" << std::endl;
     for (int i = start; i <= end; ++i) 
     {
         std::cout << i << "\n";
         sum += i;
-    }
+    } 
     std::cout << std::endl;
-    std::cout << "Сумма всех чисел: " << sum << std::endl;
-
+    std::cout << "Sum of all numbers: " << sum << std::endl;
 }
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
