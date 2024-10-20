@@ -1,47 +1,25 @@
 #include <iostream>
 
-int mySum(int num1, int num2)
+int sum(int num1, int num2)
 {
-
-	int sum = 0;
+	int sum;
 
 	sum = num1 + num2;
+	std::cout << "Sum = " << sum;
 
-	std::cout << "Hello world!";
-
-	return num1 + num2;
-
+	return sum;
 }
 
-void mySum2(int num3, int num4);
-
-
-int main() 
+int main()
 {
+	int first, second;
 
-	int num1, num2;
+	std::cout << "Enter first number - ";
+	std::cin >> first;
+	std::cout << "Enter second number - ";
+	std::cin >> second;
 
-	std::cin >> num1 >> num2;
-
-	std::cout << mySum(num1, num2);
-
-	std::cout << mySum(3, 2), mySum(mySum(3, 2), 2);
-
-	std::cout << mySum(3 + 324 - 394 * 2938 /234, 2 + 239 - 284 * 82 / 234);
-
-	mySum2(3, 2);
-
-	return 0;
-
+	sum(first, second);
 }
-
-void mySum2(int num3, int num4)
-{
-
-	int sum = 0;
-
-	sum = num3 + num4;
-
-	std::cout << sum;
-
-}
+//whrite by L1ghtsitte\\
+//{https://github.com/L1ghtsitte/CPP}\\
