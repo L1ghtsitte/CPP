@@ -15,7 +15,7 @@ lol idk
 | - | /[home_work_9)](https://github.com/L1ghtsitte/CPP/tree/main/home/C%2B%2B_09)\\ | /[(ZADANIE_8.25)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%208.25.cpp)\\ |
 | - | - | /[(ZADANIE_8.3)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%208.3.cpp)\\ |
 | - | - | /[(ZADANIE_9)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%209.cpp)\\ |
-| - | - | /[(ZADANIE 9(switchcase))](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%209(switchcase).cpp) |
+| - | - | /[(ZADANIE 9(switchcase))](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%209(switchcase).cpp)\\ |
 | - | - | - |
 | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ |
 
