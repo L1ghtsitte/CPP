@@ -16,6 +16,11 @@ lol idk
 | - | - | /[(ZADANIE_8.3)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%208.3.cpp)\\ |
 | - | - | /[(ZADANIE_9)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%209.cpp)\\ |
 | - | - | /[(ZADANIE 9(switchcase))](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%209(switchcase).cpp)\\ |
+| - | - | /[(ZADANIE pochti 7)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%20pochti%207.cpp)\\ |
+| - | - | /[(ZADANIE dopolneneai 7)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%20dopolneneai%207.cpp)\\ |
+| - | - | /[(ZADANIE 11)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%2011.cpp)\\ |
+| - | - | /[(ZADANIE 11.-1)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%2011.-1.cpp)\\ |
+| - | - | /[(ZADANIE 11.1)](https://github.com/L1ghtsitte/CPP/blob/main/zadanie/ZADANIE%2011.1.cpp)\\ |
 | - | - | - |
 | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ | //[whrite by L1ghtsitte](https://github.com/L1ghtsitte/CPP)\\\ |
 
